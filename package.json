@@ -1,7 +1,7 @@
 {
-  "name": "vite-template-redux",
-  "private": true,
-  "version": "0.0.0",
+  "name": "gpx-trailizer",
+  "private": false,
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
